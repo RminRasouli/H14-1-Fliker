@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/miShowPhoto"
+        android:icon="@drawable/ic_show_photo"
+        android:title="Show" />
+    <item
+        android:id="@+id/miSearchPhoto"
+        android:icon="@drawable/ic_image_search"
+        android:title="Searh" />
+</menu>
